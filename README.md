@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Alana Neri! 👋
+## Olá!! Eu sou Alana Neri! 👋
 
 - 🔭 Desenvolvedora front-end
 - 🌱 Estou estudando JavaScript
