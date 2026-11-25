@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Alana Neri! 👋
 
-- 🔭 Desenvolvedora front-end
-- 🌱 Estou estudando JavaScript
+- 🔭 Futura desenvolvedora
+- 🌱 Estou estudando Python
 - 😄 Pronouns: Ela / Dela
 
 <br>
